@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7d3b725e.chunk.css",
-    "main.js": "/portfolio/static/js/main.302aa300.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.302aa300.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.8775929f.chunk.css",
+    "main.js": "/portfolio/static/js/main.f7fbd5b8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f7fbd5b8.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/portfolio/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.22c90a1f.chunk.js": "/portfolio/static/js/2.22c90a1f.chunk.js",
-    "static/js/2.22c90a1f.chunk.js.map": "/portfolio/static/js/2.22c90a1f.chunk.js.map",
+    "static/js/2.c911da94.chunk.js": "/portfolio/static/js/2.c911da94.chunk.js",
+    "static/js/2.c911da94.chunk.js.map": "/portfolio/static/js/2.c911da94.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.09260931116866a1d0e9268841802d7e.js": "/portfolio/precache-manifest.09260931116866a1d0e9268841802d7e.js",
+    "precache-manifest.82cc1efa0bc84492c14b2e4f260c756f.js": "/portfolio/precache-manifest.82cc1efa0bc84492c14b2e4f260c756f.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/portfolio/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.7d3b725e.chunk.css.map": "/portfolio/static/css/main.7d3b725e.chunk.css.map",
-    "static/js/2.22c90a1f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.22c90a1f.chunk.js.LICENSE.txt",
+    "static/css/main.8775929f.chunk.css.map": "/portfolio/static/css/main.8775929f.chunk.css.map",
+    "static/js/2.c911da94.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c911da94.chunk.js.LICENSE.txt",
     "static/media/body.css": "/portfolio/static/media/bg-image.00eb8739.jpg",
-    "static/media/contact.png": "/portfolio/static/media/contact.ace43bcd.png"
+    "static/media/contact.png": "/portfolio/static/media/contact.ace43bcd.png",
+    "static/media/tatuajesctm.jpg": "/portfolio/static/media/tatuajesctm.ae56997f.jpg",
+    "static/media/tatuajesctmPage.png": "/portfolio/static/media/tatuajesctmPage.0798bab5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.22c90a1f.chunk.js",
-    "static/css/main.7d3b725e.chunk.css",
-    "static/js/main.302aa300.chunk.js"
+    "static/js/2.c911da94.chunk.js",
+    "static/css/main.8775929f.chunk.css",
+    "static/js/main.f7fbd5b8.chunk.js"
   ]
 }
