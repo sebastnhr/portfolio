@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8775929f.chunk.css",
-    "main.js": "/portfolio/static/js/main.5b757736.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5b757736.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.0f9b2a57.chunk.css",
+    "main.js": "/portfolio/static/js/main.04ea9ca0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.04ea9ca0.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/portfolio/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.c911da94.chunk.js": "/portfolio/static/js/2.c911da94.chunk.js",
-    "static/js/2.c911da94.chunk.js.map": "/portfolio/static/js/2.c911da94.chunk.js.map",
+    "static/js/2.dc51b47e.chunk.js": "/portfolio/static/js/2.dc51b47e.chunk.js",
+    "static/js/2.dc51b47e.chunk.js.map": "/portfolio/static/js/2.dc51b47e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.531056605d1ef8cc99079e08c252996e.js": "/portfolio/precache-manifest.531056605d1ef8cc99079e08c252996e.js",
+    "precache-manifest.fa8fd721fee8ffa06f019fc50c9626d1.js": "/portfolio/precache-manifest.fa8fd721fee8ffa06f019fc50c9626d1.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/portfolio/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.8775929f.chunk.css.map": "/portfolio/static/css/main.8775929f.chunk.css.map",
-    "static/js/2.c911da94.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c911da94.chunk.js.LICENSE.txt",
+    "static/css/main.0f9b2a57.chunk.css.map": "/portfolio/static/css/main.0f9b2a57.chunk.css.map",
+    "static/js/2.dc51b47e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.dc51b47e.chunk.js.LICENSE.txt",
     "static/media/body.css": "/portfolio/static/media/bg-image.00eb8739.jpg",
     "static/media/contact.png": "/portfolio/static/media/contact.ace43bcd.png",
     "static/media/tatuajesctm.jpg": "/portfolio/static/media/tatuajesctm.ae56997f.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.c911da94.chunk.js",
-    "static/css/main.8775929f.chunk.css",
-    "static/js/main.5b757736.chunk.js"
+    "static/js/2.dc51b47e.chunk.js",
+    "static/css/main.0f9b2a57.chunk.css",
+    "static/js/main.04ea9ca0.chunk.js"
   ]
 }
